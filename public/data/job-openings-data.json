@@ -2,7 +2,7 @@
   "jobs": [
     {
       "id": 1,
-      "companyName": "SolGuruz LLP",
+      "companyName": "SolGuruz LLP", 
       "location": "Ahmedabad, India",
       "bio": "SolGuruz, the name itself represents our identity of \"Solutions Gurus\", who believes in \"Engineering Quality Solutions\" by employing technologies with Passion and Love. We are solving real-world problems by delivering pixel perfect UI/UX design, and scalable web and mobile app solutions. We use best development practices and latest technologies to develop visually appealing, scalable, robust, and secure software.",
       "companyLogoUrl": "https://drive.google.com/uc?id=1SJk5QLt8pwdXFF-DvtCdOTBpEBPBrRaA",
@@ -492,5 +492,48 @@
         }
       ]
     }
+  ]
+}
+{
+  "id": 12,
+  "companyName": "Amar InfoTech",
+  "location": "Ahmedabad",
+  "bio": "Amar InfoTech is a global leader in web design and development, specializing in delivering high-quality solutions that drive digital growth and maximize ROI. With a team of creative designers, digital marketing strategists, and talented marketers, we strive to transform businesses through innovative technologies such as enterprise mobility, big data analytics, IoT, AI, and cloud computing, enabling enterprises to scale and thrive in a competitive landscape..",
+  "companyLogoUrl": "http://www.amarinfotech.com/wp-content/uploads/2023/12/AI-logo-1.png",
+  "companyWebsite": "https://www.amarinfotech.com/",
+  "companyCareerPage": "https://www.amarinfotech.com/career-opportunities.html",
+  "linkedin": "https://www.linkedin.com/company/amar-infotech/mycompany/verification/?viewAsMember=true",
+  "hiringImageUrl": "http://www.amarinfotech.com/wp-content/uploads/2023/12/Amar-infotech-hiring-multiple-position.png",
+  "openings": [
+    {
+      "title": "PHP/Laravel Developer",
+      "count": 3,
+      "experience": "0.6-5+ years"
+    },
+    {
+      "title": "Angular Developers",
+      "count": 2,
+      "experience": "1-4 years"
+    },
+    {
+      "title": "Web Designer",
+      "count": 2,
+      "experience": "1 to 3 years"
+    },
+     {
+      "title": "UIUX Designer",
+      "count": 1,
+      "experience": "0.6-1 year"
+    },
+       {
+      "title": "SEO",
+      "count": 1,
+      "experience": "1-2 years"
+    },
+       {
+      "title": "QA",
+      "count": 1,
+      "experience": "0.6-2 year"
+    },
   ]
 }
