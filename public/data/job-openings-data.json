@@ -737,6 +737,44 @@
           "experience": "2-4 years"
         }
       ]
+    },
+    {
+      "id": 19,
+      "companyName": "TravellGDS",
+      "location": "Ahmedabad",
+      "bio": "Founded in 2013, TravellGDS is a tech-focused division of Amar Technolabs Pvt. Ltd. We specialize in travel portal development, emphasizing technology and innovation. Our agile team delivers high-quality, scalable solutions for global travel and hospitality companies, including B2B/B2C travel software, CRM, accounting software, car rental software, and mobility solutions.",
+      "companyLogoUrl": "https://travellgds.com/wp-content/uploads/2023/12/travellgds-logo.png",
+      "companyWebsite": "https://travellgds.com/",
+      "companyCareerPage": "https://travellgds.com/career-opportunities",
+      "linkedin": "https://www.linkedin.com/company/travellgds/?viewAsMember=true",
+      "hiringImageUrl": "https://travellgds.com/wp-content/uploads/2023/12/travellgds-hiring.png",
+      "openings": [
+    {
+      "title": "QA - Travel Domain Expertise",
+      "count": 1,
+      "experience": "1-4 years"
+    },
+    {
+      "title": "Project Manager",
+      "count": 1,
+      "experience": "5+ years"
+    },
+    {
+      "title": "Laravel Developer",
+      "count": 1,
+      "experience": "0.6-5 years"
+    },
+    {
+      "title": "Business Analyst (Travel Domain)",
+      "count": 1,
+      "experience": "0.6-5 years"
+    },
+    {
+      "title": "API Developer",
+      "count": 1,
+      "experience": "5-6 years"
     }
+  ]
+}
   ]
 }
